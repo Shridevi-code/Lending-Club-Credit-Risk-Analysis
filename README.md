@@ -165,3 +165,21 @@ The SQL analysis was used to validate insights obtained during Python-based EDA.
 ## Conclusion
 
 The analysis identified loan grade, loan term, debt-to-income ratio, income level, and loan purpose as major factors associated with borrower default risk. The findings can help lenders better understand high-risk borrower segments and support more informed lending decisions.
+
+## Sample Visualizations
+
+### Default Rate by Grade
+
+![Grade Analysis](Charts/grade_default_rate.png)
+
+### Default Rate by Loan Term
+
+![Term Analysis](Charts/term_default_rate.png)
+
+### Default Rate by Loan Purpose
+
+![Purpose Analysis](Charts/purpose_default_rate.png)
+
+### Default Rate by Home Ownership
+
+![Home Ownership Analysis](Charts/home_ownership_default_rate.png)
