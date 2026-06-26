@@ -1,5 +1,9 @@
 # Lending Club Credit Risk Analysis
 
+## Dashboard Preview
+
+![Dashboard](Charts/dashboard.png)
+
 ## Project Overview
 
 This project analyzes historical Lending Club loan data to identify the key factors associated with loan defaults and borrower credit risk.
