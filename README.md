@@ -4,6 +4,15 @@
 
 ![Dashboard](Charts/Dasboard.png)
 
+### 📄 Dashboard PDF
+Download the complete dashboard here:
+
+[Lending Club Credit Risk Dashboard (PDF)](Charts/Lending_Club_Credit_Risk_Dashboard.pdf)
+
+### 🌐 Interactive Dashboard
+View the interactive Looker Studio dashboard here:
+(https://datastudio.google.com/reporting/b4f05ea0-3da0-465a-a8a6-c0abf4b33b69)
+
 ## Project Overview
 
 This project analyzes historical Lending Club loan data to identify the key factors associated with loan defaults and borrower credit risk.
